@@ -7,8 +7,7 @@
   align-items: center;
 
   background-color: rgb(255, 255, 255);
-  
-  border-bottom: 1px solid #838383;
+ border: 1px solid rgb(232, 231, 231);
 }
 .logo {
   min-height: 50%;
